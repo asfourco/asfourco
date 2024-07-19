@@ -15,6 +15,7 @@
     </a>
 </div>
 <h2>Hi there 👋 </h2>
+<img src="/assets/475856dd-c4a0-472c-929a-2de24db05617.png">
 </div>
 
 ---
