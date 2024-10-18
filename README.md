@@ -15,9 +15,11 @@
 ---
 ### 🧑‍💻 About Me: 
 
-Freelance senior staff developer / Tech Lead / Software Architect. Love using Python, been getting into Go and Rust (amazing! 🚀).
+Freelance senior staff developer / Tech Lead / Software Architect. Love using Python, been getting into Go and Rust.
 
-Love and thrive on solving real-world problems, developing and integrating software solutions, and building highly effective software development teams. Feel free to reach out for work-related queries!
+Love and thrive on solving real-world problems, developing and integrating software solutions, and building highly effective software development teams.
+
+Feel free to reach out for work-related queries!
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/fadiasfour)
 
